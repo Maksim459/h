@@ -1,0 +1,14 @@
+D:\Visual\Solution2\bin\Debug\net8.0\Solution2.exe
+D:\Visual\Solution2\bin\Debug\net8.0\Solution2.deps.json
+D:\Visual\Solution2\bin\Debug\net8.0\Solution2.runtimeconfig.json
+D:\Visual\Solution2\bin\Debug\net8.0\Solution2.dll
+D:\Visual\Solution2\bin\Debug\net8.0\Solution2.pdb
+D:\Visual\Solution2\obj\Debug\net8.0\Solution2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual\Solution2\obj\Debug\net8.0\Solution2.AssemblyInfoInputs.cache
+D:\Visual\Solution2\obj\Debug\net8.0\Solution2.AssemblyInfo.cs
+D:\Visual\Solution2\obj\Debug\net8.0\Solution2.csproj.CoreCompileInputs.cache
+D:\Visual\Solution2\obj\Debug\net8.0\Solution2.dll
+D:\Visual\Solution2\obj\Debug\net8.0\refint\Solution2.dll
+D:\Visual\Solution2\obj\Debug\net8.0\Solution2.pdb
+D:\Visual\Solution2\obj\Debug\net8.0\Solution2.genruntimeconfig.cache
+D:\Visual\Solution2\obj\Debug\net8.0\ref\Solution2.dll
